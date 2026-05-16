@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 背景色 -->
+    <color name="background_dark">#1A1A2E</color>
+    <color name="background_card">#16213E</color>
+    <color name="background_secondary">#0F3460</color>
+    
+    <!-- 文本色 -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#808080</color>
+    
+    <!-- 涨跌幅颜色 -->
+    <color name="green_500">#4CAF50</color>
+    <color name="green_700">#388E3C</color>
+    <color name="green_light">#81C784</color>
+    <color name="red_500">#F44336</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="red_light">#E57373</color>
+    
+    <!-- 基础色 -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- 指标颜色 -->
+    <color name="ma5">#FF9800</color>
+    <color name="ma10">#2196F3</color>
+    <color name="ma20">#9C27B0</color>
+    <color name="dif">#FFFF00</color>
+    <color name="dea">#00FFFF</color>
+    <color name="macd_bar">#FF6B6B</color>
+    <color name="kdj_k">#FF00FF</color>
+    <color name="kdj_d">#00FF00</color>
+    <color name="kdj_j">#FF9900</color>
+    <color name="rsi">#FF4081</color>
+    
+    <!-- 分割线 -->
+    <color name="divider">#30FFFFFF</color>
+    
+    <!-- 按钮状态 -->
+    <color name="button_disabled">#616161</color>
+    <color name="button_enabled">#2196F3</color>
+</resources>
